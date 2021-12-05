@@ -3,6 +3,8 @@
 
 Personal DirectX11 Project
 
+This project run on Debug x64
+
 # Input
 
 Camera Mouvement : W/A/S/D
