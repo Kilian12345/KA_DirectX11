@@ -1,0 +1,6 @@
+D:\GIT\CPP-3D-Game-Tutorial-Series\Tutorial17_GraphicsEngine_Texturing\x64\Debug\DirectXGame.exe
+D:\GIT\CPP-3D-Game-Tutorial-Series\Tutorial17_GraphicsEngine_Texturing\x64\Debug\DirectXGame.pdb
+D:\GIT\3D_GRAPHICS\DirectXGame\x64\Debug\DirectXGame.exe
+D:\GIT\3D_GRAPHICS\DirectXGame\x64\Debug\DirectXGame.pdb
+D:\GIT\3D_GRAPHICS_V2\DirectXGame\x64\Debug\DirectXGame.exe
+D:\GIT\KA_DirectX11\DirectXGame\x64\Debug\DirectXGame.exe
