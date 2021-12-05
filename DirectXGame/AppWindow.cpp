@@ -727,7 +727,7 @@ void AppWindow::onKeyDown(int key)
 {
 	if (!m_play_state) return;
 
-	if (key == 'Z')
+	if (key == 'W')
 	{
 		//m_rot_x += 3.14f*m_delta_time;
 		m_forward = 1.0f;
@@ -737,7 +737,7 @@ void AppWindow::onKeyDown(int key)
 		//m_rot_x -= 3.14f*m_delta_time;
 		m_forward = -1.0f;
 	}
-	else if (key == 'Q')
+	else if (key == 'A')
 	{
 		//m_rot_y += 3.14f*m_delta_time;
 		m_rightward = -1.0f;
