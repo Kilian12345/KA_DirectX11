@@ -3,7 +3,7 @@
 
 Personal DirectX11 Project
 
-# INPUT
+# Input
 
 Camera Mouvement : W/A/S/D
 
@@ -11,6 +11,6 @@ Light Height : W/X
 
 Light Radius : O/P
 
-# GALLERY
+# Gallery
 ![3d_3](https://user-images.githubusercontent.com/45667686/144767341-2a9b01ba-d0db-4f37-83eb-e0b9a02df047.PNG)
 ![3d_1](https://user-images.githubusercontent.com/45667686/144767344-3c59ce55-ba61-4ef4-a47f-2d4bd42dc569.PNG)
